@@ -1,5 +1,11 @@
 # cat-quote
 
+## This app pairs a random weird old cat painting with an inspirational quote. 
+
+## API Used for Inspiration Quotes: https://type.fit/api/quotes
+
+## API Used for cat images: https://limitless-refuge-78150.herokuapp.com/
+
 ## Project setup
 ```
 npm install
